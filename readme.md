@@ -2,6 +2,9 @@
 
 This is basic Email subscriber card mini project to learn Tailwind basics
 
+# Project Deployment link to Visit:
+## https://email-subscriber-card-iq1q.vercel.app/
+
 ## Usage
 
 Install dependencies
