@@ -1,6 +1,9 @@
-# Simple Tailwind CSS Starter
+# Email Subscriber Card
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This is basic Email subscriber card mini project to learn Tailwind basics
+
+# Project Deployment link to Visit:
+## https://email-subscriber-card-iq1q.vercel.app/
 
 ## Usage
 
